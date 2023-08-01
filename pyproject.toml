@@ -1,2 +1,2 @@
 [build-system]
-requires = ["setuptools", "wheel", "noom_versioning"]
+requires = ["setuptools", "wheel"]
